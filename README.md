@@ -1,1 +1,2 @@
 # 15shki
+# python learning
